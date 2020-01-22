@@ -12,7 +12,7 @@ My application will be a recipe finder app. It will allow users to input ingredi
 This app will be particularly useful to those in the home that are responsible for meal preparations but need ideas as to what they can make with the ingredients they have. The idea for this application was formed based on an ongoing discussion that my husband and I have which usually starts with "we do not have anything at home to eat".
 
 ### Features
-- Searh: Users will be able to input ingredients to search for recipes with those ingredients. 
+- Search: Users will be able to input ingredients to search for recipes with those ingredients. 
 - User login: Users will be able to create accounts and log in to the application.
 - Favorites List: Users will be able to mark recipes as their "favorite" and view that list separately. 
 - Add Recipes: Users will be able to add their own recipes to the database. 
