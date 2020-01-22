@@ -12,15 +12,15 @@ My application will be a recipe finder app. It will allow users to input ingredi
 This app will be particularly useful to those in the home that are responsible for meal preparations but need ideas as to what they can make with the ingredients they have. The idea for this application was formed based on an ongoing discussion that my husband and I have which usually starts with "we do not have anything at home to eat".
 
 ### Features
-User login: Users will be able to create accounts and log in to the application.
-Favorites List: Users will be able to mark recipes as their "favorite" and view that list separately. 
-Add Recipes: Users will be able to add their own recipes to the database. 
+- User login: Users will be able to create accounts and log in to the application.
+- Favorites List: Users will be able to mark recipes as their "favorite" and view that list separately. 
+- Add Recipes: Users will be able to add their own recipes to the database. 
 
 ### Technologies
-ASP.NET Core MVC
-Razor Templates
-MySQL
-SQLAlchemy
+- ASP.NET Core MVC
+- Razor Templates
+- MySQL
+- SQLAlchemy
 
 ### What I'll Have to Learn
 I will need to learn how to connect to a database in ASP.NET Core MVC. I am not the most proficient in C# programming language so I will need to learn how do everything that I want my program to do in that language. 
