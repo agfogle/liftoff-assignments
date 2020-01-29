@@ -9,14 +9,14 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
-* Main Homepage
-* Login Page
-* Logged in User Homepage
-* Add Recipe page
+* [Main Homepage](https://github.com/agfogle/liftoff-assignments/blob/master/P3-Project_Planning/HomePage.jpg)
+* [Login Page](https://github.com/agfogle/liftoff-assignments/blob/master/P3-Project_Planning/Login%20Page.jpg)
+* [Logged in User Homepage](https://github.com/agfogle/liftoff-assignments/blob/master/P3-Project_Planning/User%20HomePage.jpg)
+* [Add Recipe page](https://github.com/agfogle/liftoff-assignments/blob/master/P3-Project_Planning/Add%20Recipe.jpg)
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+[Trello Board](https://trello.com/b/kJUKkCfC/recipe-finder)
 
 ### Project Repo Link
 
