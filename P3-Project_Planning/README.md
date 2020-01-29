@@ -20,4 +20,4 @@ Include at least 3 wireframes here, adding images or files to your repository as
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+[Github Repository](https://github.com/agfogle/RecipeFinder)
